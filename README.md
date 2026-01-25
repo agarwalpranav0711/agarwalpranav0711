@@ -1,4 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Hey 👋 I'm Pranav</h1>
+<h3 align="center">Student Developer • Learning by Building • Exploring AI & Automation</h3>
+
+---
+
+## 💫 About Me
 
 🤝 I’m looking to collaborate on  
 Beginner-friendly open source projects, web development projects, AI + automation ideas, hackathons, and anything where I can learn by building with others.
@@ -17,13 +22,13 @@ I learn best by building projects slightly above my level, breaking things, and 
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavagarwal07)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalpranav0711@gmail.com)
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 > Tools & technologies I use or actively explore
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,7 +49,7 @@ I learn best by building projects slightly above my level, breaking things, and 
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=agarwalpranav0711&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=agarwalpranav0711&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalpranav0711&theme=dark&layout=compact)
