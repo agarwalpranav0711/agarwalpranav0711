@@ -1,15 +1,15 @@
-<!-- PRANAV AGARWAL — GitHub Profile README v2.0 -->
+<!-- PRANAV AGARWAL — GitHub Profile README v3.0 -->
 
 <div align="center">
 
-```
+\`\`\`
 ██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
 ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
 ██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
 ██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
 ██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
-```
+\`\`\`
 
 **`/dev/pranav` — booting up...** ████████████████ `100%`
 
@@ -19,14 +19,15 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranav-ai-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavagarwal.tech@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/agarwalpranav0711)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agarwalpranav0711)
 
 </div>
 
 ---
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=agarwalpranav0711&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C0C0C0&rank_icon=github&include_all_commits=true" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=agarwalpranav0711&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C0C0C0&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
 
-```bash
+\`\`\`bash
 $ whoami
 pranav@universe:~$
   ├── First-year CS student
@@ -44,7 +45,7 @@ $ ls -la ./skills/
 
 $ uptime
   Online since Aug 2025. No planned downtime.
-```
+\`\`\`
 
 <br clear="right"/>
 
@@ -52,7 +53,7 @@ $ uptime
 
 ## `> SYSTEM LOG — What I Actually Build`
 
-```
+\`\`\`
 ╔══════════════════════════════════════════════════════════════╗
 ║  [001] Ether OS ........................... ✅ LIVE          ║
 ║        Multi-agent AI orchestration. Manager → Workers.      ║
@@ -75,13 +76,13 @@ $ uptime
 ║        Full-stack creator monetization platform              ║
 ║        Next.js + MongoDB + Razorpay + NextAuth OAuth         ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+\`\`\`
 
 ---
 
 ## `> RANKED ENCOUNTERS — Hackathon Arena`
 
-```diff
+\`\`\`diff
 + [2026] India Innovates · JanSamwaad Resolve OS
          RANK 39 / 4,500 teams · 25,000 participants
          TOP 1% IN INDIA  ████████████████████████▓░  🔥
@@ -93,7 +94,7 @@ $ uptime
 + [2025] TechStrom · LynX — AI + IoT Smart Navigation
          Top 50 / 100 teams · 500 participants
          College-wide recognition for AI + IoT integration
-```
+\`\`\`
 
 ---
 
@@ -118,20 +119,26 @@ $ uptime
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=agarwalpranav0711&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C0C0C0&rank_icon=github&include_all_commits=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalpranav0711&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C0C0C0&layout=compact&langs_count=6" />
+<!-- Stats card — works if your profile is public -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=agarwalpranav0711&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C0C0C0&rank_icon=github&include_all_commits=true" />
+&nbsp;
+<!-- Top languages card -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalpranav0711&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C0C0C0&layout=compact&langs_count=6" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=agarwalpranav0711&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=FF6B35&currStreakLabel=39FF14&sideLabels=C0C0C0&dates=555555" />
+<!-- Streak stats — most reliable provider -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=agarwalpranav0711&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=FF6B35&currStreakLabel=39FF14&sideLabels=888888&dates=555555" />
 
 </div>
+
+> **Note:** Stats cards require your GitHub profile & repos to be **public**. If they still show broken, go to [github-readme-stats.vercel.app](https://github-readme-stats.vercel.app) and deploy your own free instance — takes 2 minutes.
 
 ---
 
 ## `> LEETCODE — Grinding the Queue`
 
-```
+\`\`\`
   Problems Solved ▸ 139          Active Streak ▸ 100+ days
   ──────────────────────────────────────────────────────────
   Easy    ░░░░░░░░░░░░░░░░░░░░░░░░░  37
@@ -139,13 +146,13 @@ $ uptime
   Hard    █████░░░░░░░░░░░░░░░░░░░░░  19
 
   Status: [ RUNNING ] — no days off.
-```
+\`\`\`
 
 ---
 
 ## `> EDUCATION — Two Instances Running`
 
-```yaml
+\`\`\`yaml
 instance_1:
   university: "BML Munjal University, Haryana"
   degree:     "B.Tech — Computer Science"
@@ -159,7 +166,7 @@ instance_2:
   status:     ACTIVE  # Sep 2025 – Present
 
 system_note: "Yes. Both. Simultaneously. Send help."
-```
+\`\`\`
 
 ---
 
@@ -179,7 +186,7 @@ system_note: "Yes. Both. Simultaneously. Send help."
 
 <div align="center">
 
-```
+\`\`\`
 > I learn best by building things slightly above my level,
   breaking them, and fixing them at 2AM.
 
@@ -188,7 +195,7 @@ system_note: "Yes. Both. Simultaneously. Send help."
 > ping me anytime.  latency: low.  availability: high.
 
 $ ./pranav --mode=build --sleep=optional --coffee=required
-```
+\`\`\`
 
 <br/>
 
