@@ -1,15 +1,15 @@
-<!-- PRANAV AGARWAL — GitHub Profile README v3.0 -->
+<!-- PRANAV AGARWAL — GitHub Profile README -->
 
 <div align="center">
 
-\`\`\`
+```
 ██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
 ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
 ██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
 ██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
 ██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝
-\`\`\`
+```
 
 **`/dev/pranav` — booting up...** ████████████████ `100%`
 
@@ -25,9 +25,7 @@
 
 ---
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=agarwalpranav0711&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C0C0C0&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
-
-\`\`\`bash
+```bash
 $ whoami
 pranav@universe:~$
   ├── First-year CS student
@@ -38,22 +36,20 @@ pranav@universe:~$
 $ cat /etc/motto
   "Ship it. Break it. Learn it. Repeat."
 
-$ ls -la ./skills/
+$ ls ./skills/
   multi-agent-ai/      real-time-systems/
   rag-pipelines/       full-stack-apps/
   prompt-engineering/  open-source/
 
 $ uptime
-  Online since Aug 2025. No planned downtime.
-\`\`\`
-
-<br clear="right"/>
+  Online since Aug 2025 — 10+ projects deployed.
+```
 
 ---
 
 ## `> SYSTEM LOG — What I Actually Build`
 
-\`\`\`
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║  [001] Ether OS ........................... ✅ LIVE          ║
 ║        Multi-agent AI orchestration. Manager → Workers.      ║
@@ -76,13 +72,13 @@ $ uptime
 ║        Full-stack creator monetization platform              ║
 ║        Next.js + MongoDB + Razorpay + NextAuth OAuth         ║
 ╚══════════════════════════════════════════════════════════════╝
-\`\`\`
+```
 
 ---
 
 ## `> RANKED ENCOUNTERS — Hackathon Arena`
 
-\`\`\`diff
+```diff
 + [2026] India Innovates · JanSamwaad Resolve OS
          RANK 39 / 4,500 teams · 25,000 participants
          TOP 1% IN INDIA  ████████████████████████▓░  🔥
@@ -94,7 +90,7 @@ $ uptime
 + [2025] TechStrom · LynX — AI + IoT Smart Navigation
          Top 50 / 100 teams · 500 participants
          College-wide recognition for AI + IoT integration
-\`\`\`
+```
 
 ---
 
@@ -109,7 +105,7 @@ $ uptime
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=6DA55F) ![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white) |
 | **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=39FF14) `RAG` `Multi-Agent` `Vector Embeddings` `Prompt Engineering` |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1) `FAISS` |
-| **Infra & Tools** | ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71) `Socket.io` `SSE` `JWT` |
+| **Infra** | ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0D1117?style=flat-square&logo=railway&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71) `Socket.io` `SSE` `JWT` |
 
 </div>
 
@@ -119,26 +115,19 @@ $ uptime
 
 <div align="center">
 
-<!-- Stats card — works if your profile is public -->
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=agarwalpranav0711&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C0C0C0&rank_icon=github&include_all_commits=true" />
 &nbsp;
-<!-- Top languages card -->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalpranav0711&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C0C0C0&layout=compact&langs_count=6" />
-
 <br/><br/>
-
-<!-- Streak stats — most reliable provider -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=agarwalpranav0711&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=FF6B35&currStreakLabel=39FF14&sideLabels=888888&dates=555555" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=agarwalpranav0711&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=FF6B35&currStreakLabel=39FF14" />
 
 </div>
-
-> **Note:** Stats cards require your GitHub profile & repos to be **public**. If they still show broken, go to [github-readme-stats.vercel.app](https://github-readme-stats.vercel.app) and deploy your own free instance — takes 2 minutes.
 
 ---
 
 ## `> LEETCODE — Grinding the Queue`
 
-\`\`\`
+```
   Problems Solved ▸ 139          Active Streak ▸ 100+ days
   ──────────────────────────────────────────────────────────
   Easy    ░░░░░░░░░░░░░░░░░░░░░░░░░  37
@@ -146,13 +135,13 @@ $ uptime
   Hard    █████░░░░░░░░░░░░░░░░░░░░░  19
 
   Status: [ RUNNING ] — no days off.
-\`\`\`
+```
 
 ---
 
 ## `> EDUCATION — Two Instances Running`
 
-\`\`\`yaml
+```yaml
 instance_1:
   university: "BML Munjal University, Haryana"
   degree:     "B.Tech — Computer Science"
@@ -166,7 +155,7 @@ instance_2:
   status:     ACTIVE  # Sep 2025 – Present
 
 system_note: "Yes. Both. Simultaneously. Send help."
-\`\`\`
+```
 
 ---
 
@@ -186,16 +175,16 @@ system_note: "Yes. Both. Simultaneously. Send help."
 
 <div align="center">
 
-\`\`\`
+```
 > I learn best by building things slightly above my level,
   breaking them, and fixing them at 2AM.
 
-> Currently recruiting: collabs, ideas, and problems worth solving.
+> Currently recruiting: collabs, ideas, problems worth solving.
 
 > ping me anytime.  latency: low.  availability: high.
 
 $ ./pranav --mode=build --sleep=optional --coffee=required
-\`\`\`
+```
 
 <br/>
 
